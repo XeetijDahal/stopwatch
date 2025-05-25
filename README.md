@@ -20,6 +20,7 @@ A simple, responsive Stopwatch built with ReactJS. It features start, stop, rese
 
 ---
 Usage
+
 Click Start to begin the timer.
 
 Click Lap to record the current time without stopping the timer.
@@ -28,7 +29,9 @@ Click Stop to pause the timer.
 
 Click Reset to clear the timer and all laps.
 
+
 Technologies Used
+
 ReactJS (Functional components and hooks)
 
 CSS for styling
