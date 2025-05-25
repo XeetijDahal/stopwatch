@@ -19,22 +19,23 @@ A simple, responsive Stopwatch built with ReactJS. It features start, stop, rese
 ![Stopwatch](image/stopwatch.png)
 
 ---
-Usage
 
-Click Start to begin the timer.
+## Usage
 
-Click Lap to record the current time without stopping the timer.
+* Click Start to begin the timer.
 
-Click Stop to pause the timer.
+* Click Lap to record the current time without stopping the timer.
 
-Click Reset to clear the timer and all laps.
+* Click Stop to pause the timer.
+
+* Click Reset to clear the timer and all laps.
 
 ---
 
-Technologies Used
+## Technologies Used
 
-ReactJS (Functional components and hooks)
+* ReactJS (Functional components and hooks)
 
-CSS for styling
+* CSS for styling
 
 ---
