@@ -16,7 +16,7 @@ A simple, responsive Stopwatch built with ReactJS. It features start, stop, rese
 
 ## Demo
 
-![Stopwatch Demo GIF or Screenshot](link-to-image-or-gif-if-any)
+![Stopwatch](image/stopwatch.png)
 
 ---
 Usage
