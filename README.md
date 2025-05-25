@@ -29,9 +29,12 @@ Click Stop to pause the timer.
 
 Click Reset to clear the timer and all laps.
 
+---
 
 Technologies Used
 
 ReactJS (Functional components and hooks)
 
 CSS for styling
+
+---
